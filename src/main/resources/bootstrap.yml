@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ocandelc/bc30-project02-part05-config-data.git
+          uri: https://github.com/ocandelc/bc30-project03-part05-config-data.git
           #searchPaths: config-data
           username: ocandelc
           password: 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
